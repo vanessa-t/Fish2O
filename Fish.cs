@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Fish : MonoBehaviour 
 {
+
 	private bool isDead = false;
 	private Rigidbody2D rb2d;
 
