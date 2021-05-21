@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScoreEndScreen : MonoBehaviour {
 
+	
 	public Text scoreText;
 	public Text highScoreText;
 
