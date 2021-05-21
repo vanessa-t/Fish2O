@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ScrollingObject : MonoBehaviour {
 
 	public float Speed = 1;
