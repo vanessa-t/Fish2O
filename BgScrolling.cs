@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class BgScrolling : MonoBehaviour {
 
-	
 	public float Speed = 1;
 	public List<SpriteRenderer> sprites = new List<SpriteRenderer>();
 	public Direction Dir = Direction.Right;
